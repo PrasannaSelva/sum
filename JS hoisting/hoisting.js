@@ -3,3 +3,4 @@
  var a;
  var b;
 console.log('add');
+var z;
