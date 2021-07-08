@@ -1,5 +1,5 @@
  var z;
- console.log('a');
+ console.log('b');
  var a;
  var b;
 console.log('add');
